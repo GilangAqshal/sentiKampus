@@ -4,4 +4,3 @@ linter:
   rules:
     prefer_final_locals: true
     use_build_context_synchronously: true
-
